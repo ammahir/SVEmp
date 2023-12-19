@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uYPVlt/lhXQSsmFIA4z3UXx5PjGIq9yXx50oW02OBDWPJvm642/OZldo4aLpFCvUAbMqYRgrFxycaZr8fMLElQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maahir\\Downloads\\Projects\\Projects\\SmartEntities\\SmartEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maahir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\maahir\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\maahir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
